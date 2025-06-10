@@ -1,6 +1,6 @@
 import { cx } from "../util"
 import util from "../util.module.css"
-import logo from "../assets/logo.png"
+import logo from "../assets/react.svg"
 import styles from "./Navbar.module.css"
 
 export interface INavbar
